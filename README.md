@@ -1,5 +1,5 @@
 # Non-Invasive Prediction of Glycemic Events in Type1 Diabetes Patients Using Wearable device.
-![glucose](/Users/sherf/desktop/Screen Shot 2019-06-11 at 11.42.22 am.png)
+![glucose](https://github.com/Sherif-Beshady/Non-Invasive-Prediction-of-Glycemic-Events-in-Type1-Diabetes-Patients-Using-Wearable-device./blob/master/Capstone_June19/Screen%20Shot%202019-06-11%20at%2011.42.22%20am.png)
 
 ### *Background*
 Hypoglycaemia and Hyperglycaemia are common phenomena that affect patients with diabetes. Early detection and prediction improve quality of life and lead to the avoidance of serious complications. 
