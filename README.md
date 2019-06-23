@@ -26,9 +26,9 @@ The objective was to predict if the patient goes through Hyperglycaemia or not w
 -	explore the impact of other factors like food and insulin which I didn't include in my set of features.
 
 ### *Helpful links*
-https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764234/ 
-https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005232
-https://static.diabetesaustralia.com.au/s/fileassets/diabetes-australia/e7282521-472b-4313-b18e-be84c3d5d907.pdf
-https://pypi.org/project/heartpy/
-https://pypi.org/project/biosppy/
+1. https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4764234/ 
+2. https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1005232
+3. https://static.diabetesaustralia.com.au/s/fileassets/diabetes-australia/e7282521-472b-4313-b18e-be84c3d5d907.pdf
+4. https://pypi.org/project/heartpy/
+5. https://pypi.org/project/biosppy/
 
